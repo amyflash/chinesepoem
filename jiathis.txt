@@ -1,0 +1,19 @@
+<!-- JiaThis Button BEGIN -->
+<div class="jiathis_style_32x32">
+<a class="jiathis_button_weixin"></a>
+<a class="jiathis_button_cqq"></a>
+<a href="http://www.jiathis.com/share?uid=2115717" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+</div>
+<script type="text/javascript" >
+var jiathis_config={
+	data_track_clickback:true,
+	sm:"weixin,cqq",
+	url:"h5.amyflash.com",
+	summary:"中华诗词",
+	title:"我考中状元啦！ ##",
+	shortUrl:true,
+	hideMore:false
+}
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2115717" charset="utf-8"></script>
+<!-- JiaThis Button END -->
